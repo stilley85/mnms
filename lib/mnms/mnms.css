@@ -1,0 +1,19 @@
+body {
+  /* background-image: url("../../images/seamless_paper_texture.png"); */
+  background-color: #0F0F11;
+  font-family: 'Press Start 2P', cursive;
+  color: #9CFD32;
+}
+
+h2 {
+  color: green;
+}
+
+h3 {
+  color: red;
+}
+
+p {
+  color: yellow;
+  margin-left: 2em;
+}
