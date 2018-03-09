@@ -1,0 +1,39 @@
+{
+  "name": "mnmsplus",
+  "version": "0.0.1",
+  "description": "mnms is a custom testing library built from the ground up using pure Javascript",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stilley85/mnms.git"
+  },
+  "keywords": [
+    "mnms",
+    "testing",
+    "javascript",
+    "danny",
+    "devito",
+    "m&ms",
+    "skittles",
+    "test",
+    "js",
+    "testingtests",
+    "jasmine",
+    "specs"
+  ],
+  "author": "Marcus Gardiner, Noel Vock, Matt Burstein, Stephen Tilley",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/stilley85/mnms/issues"
+  },
+  "homepage": "https://github.com/stilley85/mnms#readme",
+  "dependencies": {
+    "npm": "^5.7.1"
+  }
+}
